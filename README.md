@@ -3,7 +3,7 @@
  I'm a python developer.
 
 <p>
-- 💖 I love PYTHON  HTML/CSS<br/>
+- 💖 I love PYTHON <br/>
 </p>
 
 ## :rocket: My skills:
