@@ -4,6 +4,8 @@
 
 <p>
 - 💖 I love PYTHON <br/>
+- Canal Youtube https://www.youtube.com/channel/UC2ENO1MeRjhd8F23d5068fg
+- instagram @Khufos
 </p>
 
 ## :rocket: My skills:
