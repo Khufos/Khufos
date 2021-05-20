@@ -11,11 +11,12 @@
 ## :rocket: My skills:
 
 <pre>
-- Python                     ⭐️⭐️⭐️⭐️
+- Python                     ⭐️⭐️⭐️
 - HTML5, CSS3 (PostCSS/SASS) ⭐️⭐️
 - CSS, Bootstrap             ⭐️⭐️
 - C Sharp                    ⭐️⭐️
 - Webpack, Yarn              ⭐️
 - LUA                        ⭐️
-- PHP                        ⭐️⭐️
+- PHP                        ⭐
+- Java                       ⭐️
 </pre>
