@@ -1,9 +1,9 @@
 # Hi! I'm Khufos 👋
 
- I'm a python developer.
+I like to write scripts.
 
 <p>
-- 💖 I love PYTHON <br/>
+   <br/>
 - Canal Youtube https://www.youtube.com/channel/UC2ENO1MeRjhd8F23d5068fg <br/>
 - Instagram  @Khufos
 </p>
