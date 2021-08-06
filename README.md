@@ -12,11 +12,10 @@ I like to write scripts.
 
 <pre>
 - Python                     ⭐️⭐️⭐️
-- HTML5, CSS3 (PostCSS/SASS) ⭐️⭐️
-- CSS, Bootstrap             ⭐️⭐️
 - C Sharp                    ⭐️⭐️
 - Webpack, Yarn              ⭐️
 - LUA                        ⭐️
 - PHP                        ⭐
 - Java                       ⭐️
+- C/C++                      ⭐️
 </pre>
