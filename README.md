@@ -18,7 +18,7 @@ I like to write scripts.
 - PHP                        ⭐
 - Java                       ⭐️
 - C/C++                      ⭐️
-- HTML                       ⭐️
-- CSS                        ⭐️
-- JAVASCRIPT                 ⭐️
+- HTML5                      ⭐️
+- CSS3                       ⭐️
+- JAVASCRIPT                 ⭐️⭐️
 </pre>
