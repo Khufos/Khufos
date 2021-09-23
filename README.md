@@ -17,7 +17,7 @@ Esta iniciando na programação? Vai com calma, não queira aprender tudo em um 
 </p>
 
 <br><br>
-[![Blog](https://img.shields.io/badge/instagram-white.svg?style=for-the-badge&logo=instagram)](https://olha.la/ilovecode)
+[![instagram](https://img.shields.io/badge/instagram-white.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/khufos/)
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2ENO1MeRjhd8F23d5068fg)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)]()
 
