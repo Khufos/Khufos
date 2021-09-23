@@ -14,7 +14,7 @@
 
                                                 - 💻 Um conselho simples 💻 -
 <p align="center"> 
-    Esta iniciando na programação? Vai com calma, não queira aprender tudo em um só dia, mantenha seu foco principal em aprimorar a sua lógica. No começo tudo é muito difícil, mas     não desista, estude e persista. Aos poucos você vai gravando os comandos automaticamente e vai se preocupar com outras coisas. E se tiver com tempo para reinventar a roda, vai     la, e constrói da sua forma, o aprendizado é enorme.
+  Esta iniciando na programação? Vai com calma, não queira aprender tudo em um só dia, mantenha seu foco principal em aprimorar a sua lógica. No começo tudo é muito difícil, mas   não desista, estude e persista. Aos poucos você vai gravando os comandos automaticamente e vai se preocupar com outras coisas. E se tiver com tempo para reinventar a roda, vai   la, e constrói da sua forma, o aprendizado é enorme.
 </p>
 <br><br>
 
