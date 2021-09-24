@@ -5,7 +5,7 @@
 ### 👋 Hi! I'm Khufos
  
     😄 I like to write scripts.
-    👯 Compartilho conteúdos sobre ,java, lua, python, Bots, e projetos de cursos concluídos em geral.
+    👯 Compartilho conteúdos sobre ,java, lua, python, Bots e projetos de cursos concluídos em geral.
     
 
 
