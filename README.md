@@ -1,7 +1,5 @@
 <img align="left" src="https://pa1.narvii.com/6456/954ac5283e92495ecf477661d6fcd739684cc6d7_128.gif"/>
 
-
-
 ### 👋 Hi! I'm Khufos
  
     😄 I like to write scripts.
