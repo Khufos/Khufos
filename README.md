@@ -6,13 +6,7 @@
  
     😄 I like to write scripts.
     👯 Compartilho conteúdos sobre ,java, lua, python, Bots e projetos de cursos concluídos em geral.
-    
-
-
-![GitHub followers](https://img.shields.io/github/followers/khufos?style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/khufos?style=flat-square)
-
-  
+ 
 
  ###### ⚔️Melhor ser pirata, do marinheiro...  - 🏴‍☠️ Steve Jobs 🏴‍☠️ -
  
