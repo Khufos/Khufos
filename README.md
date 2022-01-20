@@ -1,11 +1,7 @@
-<img align="left" src="https://pa1.narvii.com/6456/954ac5283e92495ecf477661d6fcd739684cc6d7_128.gif"/>
 
-### 👋 Hi! I'm Khufos
- 
-    😄 I like to write scripts.
-    👯 Compartilho conteúdos sobre ,java, lua, python, Bots e projetos de cursos concluídos em geral.
-
- ##   
+![Alt Text](https://github.com/Khufos/Khufos/blob/main/Khufosfreeuse.gif)
+### 
+###
       
 [![instagram](https://img.shields.io/badge/instagram-white.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/khufos/)
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2ENO1MeRjhd8F23d5068fg)
