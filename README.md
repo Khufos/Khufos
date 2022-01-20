@@ -1,5 +1,5 @@
 
-![Alt Text](https://github.com/Khufos/Khufos/blob/main/Khufosfreeuse.gif)
+![Alt Text](https://github.com/Khufos/Khufos/blob/main/freekhufos.gif)
 ### 
 ###
       
