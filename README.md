@@ -1,7 +1,12 @@
+### Hi there, I'm Iago Joseph ! 👋
 
-![Alt Text](https://github.com/Khufos/Khufos/blob/main/freekhufos.gif)
-### 
+## :triangular_flag_on_post: Technical skills
+- Programming languages: Python / Java / JavaScript / Server SQL / Lua;
+- Infra knowledges: Docker / Heroku;
+- Database / Data structure store: Mysql, SQL Server,
 ###
+
+
       
 [![instagram](https://img.shields.io/badge/instagram-white.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/khufos/)
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2ENO1MeRjhd8F23d5068fg)
