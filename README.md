@@ -1,4 +1,4 @@
-### Hi there, I'm Iago Joseph ! 👋
+### Hi, I'm Iago Joseph ! 👋
 
 ## :triangular_flag_on_post: Technical skills
 - Programming languages: Python / Java / JavaScript / Server SQL / Lua;
