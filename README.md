@@ -1,6 +1,7 @@
 ### Hi, I'm Iago Joseph ! 👋
 
 ## :triangular_flag_on_post: Technical skills
+- Cursando Analise e Desenvolvimento de Sistemas 1/5 
 - Programming languages: Python / Java / JavaScript / Lua / C ;
 - Infra knowledges: Docker / Heroku;
 - Database / Data structure store: Mysql, SQL Server;
