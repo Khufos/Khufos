@@ -2,7 +2,6 @@
 
 ## :triangular_flag_on_post: Technical skills
 - Programming languages: Python / Java / JavaScript / Lua / C ;
-- Infra knowledges: Docker / Heroku;
 - Database / Data structure store: Mysql, SQL Server;
 ###
 
