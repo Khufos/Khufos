@@ -1,4 +1,4 @@
-![Khufos](https://github.com/Khufos/Khufos/blob/main/freekhufos.gif)
+![Khufos](https://github.com/Khufos/Khufos/blob/main/freekhufos.)
 
 <div align="center">
 I'm Iago Joseph, and I believe a great programming language is one that brings joy to the process of coding!
