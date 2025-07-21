@@ -66,7 +66,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khufos-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/seu-usuario-aqui)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khufos-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iago-joseph-178a41102/)  
 [![Twitter](https://img.shields.io/badge/Twitter-@Khufos__-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/Khufos__)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-khufos.dev-000?style=flat-square&logo=vercel)](https://khufos.dev)
 
