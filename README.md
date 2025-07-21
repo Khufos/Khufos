@@ -16,25 +16,10 @@
 ## 🧭 Visitors Count
 
 <p align="center">
-  <strong>Real-time visitors</strong><br />
-  <span id="visits" style="font-size: 32px; font-weight: bold;">Loading...</span>
+  <strong>Visitors Count</strong><br />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Khufos.Khufos" alt="visitor badge"/>
 </p>
 
-<script>
-  const counterKey = 'khufos-visit-count';
-
-  fetch(`https://api.countapi.xyz/hit/${counterKey}/visits`)
-    .then(res => res.json())
-    .then(data => {
-      let el = document.getElementById('visits');
-      let i = 0;
-      let target = data.value;
-      let interval = setInterval(() => {
-        el.innerText = i;
-        if (i++ >= target) clearInterval(interval);
-      }, 10);
-    });
-</script>
 
 ---
 
